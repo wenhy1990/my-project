@@ -33,6 +33,8 @@
 | react-hot-loader | 如果项目大了刷新特别卡顿一步到位[react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin) |
 | react-query      | 组件内进行大部分业务逻辑是请求数据填充数据直接上手           |
 | react-hook-form  | 当系统中出现了大量的表单操作的时候直接可以上手该应用         |
+| majestic         | 测试ui           |
+| playwright       | e2e测试           |
 
 ### ②🍌 ts.config具体配置选项
 
